@@ -1,0 +1,12 @@
+# README.me
+This is my emacs configuration tree, continually used and tweaked since 2017, and it may be some improvement.
+These days it's somewhat geared towards OS X, but it is known to also work on Linux and Windows.
+
+Emacs itself comes with support for many programming languages. This config adds improved defaults and extended
+support for the following, listed in the approximate order of how much I use them, from most to least:
+
+Lisp
+Python
+
+In particular, there's a nice config for autocompletion with company, and flycheck is used to immediately highlight
+syntax errors in Python.
